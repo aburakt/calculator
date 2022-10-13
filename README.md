@@ -1,2 +1,5 @@
 # calculator
-Calculator App with JS
+
+For try the app
+
+visit  [here](https://aburakt.github.io/calculator/)
